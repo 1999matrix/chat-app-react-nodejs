@@ -41,11 +41,11 @@ password: 12345678
     ```
 2. Enter the directory
     ```
-    cd chat-app-client-v2
+    cd chat-app-react-nodejs-master
     ```
 3. Install dependencies
     ```
-    yarn install
+    yarn install or npm install
     ```
 4. Change .env.example file
    - change file name to .env
