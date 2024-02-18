@@ -26,10 +26,10 @@ You can find the backend repo [here](https://github.com/tsengm6h6/chat-app-serve
 https://sweet-bombolone-176d6a.netlify.app
 
 ### Testing Account
-username: Lenny Connolly  
+username: abc123  
 password: 12345678  
 
-username: Rachael Holloway  
+username: abc1234
 password: 12345678  
 
 ### Screenshots

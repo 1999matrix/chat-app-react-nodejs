@@ -32,19 +32,4 @@ export const useAvatar = () => {
   return { error, isLoading, fetchAvatar };
 };
 
-// export const avatarGenerator = (fetchFn, generateCb) => {
-//   const AVATAR_API = `https://api.multiavatar.com/${genRandomNum()}?apikey=${process.env.VITE_AVATAR_KEY}`;
-//   fetchFn(
-//     {
-//       method: 'GET',
-//       url: AVATAR_API,
-//       headers: {
-//         withCredentials: false
-//       }
-//     },
-//     (data) => {
-//       const result = Buffer.from(data);
-//       generateCb(result.toString('base64'));
-//     }
-//   );
-// };
+
