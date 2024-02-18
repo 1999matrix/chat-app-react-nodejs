@@ -44,7 +44,7 @@ function Navbar() {
         <NavLogo>
           <NavImage src="/talking.png" alt="brand=logo" />
           <NavBrand>Chatty</NavBrand>
-          {show && onlineUsers && <NavCount> 上線人數：{onlineUsers.length || 0}</NavCount>}
+          {show && onlineUsers && <NavCount> OnlineUsers ：{onlineUsers.length || 0}</NavCount>}
         </NavLogo>
       </Link>
       {user ? (
