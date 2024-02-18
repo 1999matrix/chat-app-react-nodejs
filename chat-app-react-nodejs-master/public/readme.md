@@ -32,24 +32,7 @@ password: 12345678
 username: abc1234
 password: 12345678  
 
-### Screenshots
-**Chat (Light mode)**
-![Imgur](https://i.imgur.com/VYt9Bbf.png)
 
-**Chat (Dark mode)**
-![Imgur](https://i.imgur.com/Kvzk6A2.png)
-
-**Chat (Mobile)**
-![Imgur](https://i.imgur.com/f08biHB.png)
-
-**Create Room (Light mode)**
-![Imgur](https://i.imgur.com/tVioSqs.png)
-
-**Create Room (Dark mode)**
-![Imgur](https://i.imgur.com/LNq1G4m.png)
-
-**Create Room (Mobile)**
-![Imgur](https://i.imgur.com/gK4azXw.png)
 
 ### How to use
 1. Clone the repo
